@@ -6,6 +6,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
+    NSLog(@"Hello Cruel World!");
+    
     /**
     
      * Hey! Write your code here! :D
